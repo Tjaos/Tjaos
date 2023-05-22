@@ -1,4 +1,4 @@
-<h1>Thiago Amaral 🐱‍👤<h1/>
+<h2>Thiago Amaral 🐱‍👤<h2/>
 
 
 - 🌱 Estudando front-end ...
@@ -26,7 +26,4 @@
   <img align="center" alt="Tjaos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tjaos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-
-
 
