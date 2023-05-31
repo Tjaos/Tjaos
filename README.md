@@ -1,7 +1,7 @@
 <h2>Thiago Amaral 🐱‍👤<h2/>
 
 
-- 🌱 Estudando front-end ...
+- 🌱 Estudando full-stack...
 - 🖥️ cursando Análise e Desenvolvimento de Sistemas
 - 🌐 web
 
