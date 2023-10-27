@@ -11,11 +11,11 @@
    
 
 ##
-<div align="center">
+<!--<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tjaos&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tjaos&layout=compact&theme=aura&hide_border=true&langs_count=10"/> 
 </div>
-
+-->
 ##
 
 ##
