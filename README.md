@@ -1,9 +1,7 @@
 <h2>Thiago Amaral 🐱‍👤<h2/>
 
-
-- 🌱 Estudando full-stack...
-- 🖥️ cursando Análise e Desenvolvimento de Sistemas
-- 🌐 web
+- 🖥️ Cursando Análise e Desenvolvimento de Sistemas
+- 📱 React Native
 
 <div> 
   <a href="https://www.linkedin.com/in/thiago-amaral-9540ab182/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B67DB" target="_blank"></a> 
