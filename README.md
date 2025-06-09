@@ -47,4 +47,5 @@
 ---
 
 <!-- Snake animation -->
-![snake animation](https://github.com/Tjaos/Tjaos/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Tjaos/Tjaos/output/github-contribution-grid-snake.svg)
+
