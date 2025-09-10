@@ -43,6 +43,7 @@
 ## 📌 Projetos em Destaque
 - 🔗 [Sistema de Fast Food com Next.js](https://github.com/Tjaos/fsw-donalds)
 - 🔗 [Backend de um restaurante com Spring boot (Em desenvolvimento)](https://github.com/Tjaos/oxefood-api-thiago)
+- 🔗 [Um projeto de e-commerce usando RabbitMQ e Microservices com dotnet](https://github.com/Tjaos/ecommerce-microservices)
 
 ---
 
