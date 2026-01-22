@@ -7,7 +7,7 @@
 
 ## 🔗 Contato
 
-<a href="https://www.linkedin.com/in/thiago-amaral-9540ab182/" target="_blank">
+<a href="[https://www.linkedin.com/in/thiagoamaraldev/]" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B67DB">
 </a>
 <a href="mailto:th83287716@gmail.com" target="_blank">
